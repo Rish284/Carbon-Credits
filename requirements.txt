@@ -1,0 +1,8 @@
+gradio
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+onnx
+opencv-python
